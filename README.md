@@ -1,0 +1,11 @@
+# zld-scraper
+- https://github.com/marsbroshok/image-classifier-with-tensorflow
+- https://github.com/damianmoore/tensorflow-image-classifier
+- https://github.com/ryanwebber/tensorflow-image-classification
+- https://github.com/AccelAI/Image-Classification-TensorFlow
+- https://github.com/deep-diver/CIFAR10-img-classification-tensorflow
+- https://github.com/burliEnterprises/tensorflow-image-classifier
+- https://github.com/rohanthomas/Tensorflow-image-recognition
+- https://github.com/rdcolema/tensorflow-image-classification
+- https://github.com/MuhammedBuyukkinaci/TensorFlow-Multiclass-Image-Classification-using-CNN-s
+- https://github.com/xuetsing/image-classification-tensorflow
