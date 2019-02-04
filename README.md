@@ -9,3 +9,8 @@
 - https://github.com/rdcolema/tensorflow-image-classification
 - https://github.com/MuhammedBuyukkinaci/TensorFlow-Multiclass-Image-Classification-using-CNN-s
 - https://github.com/xuetsing/image-classification-tensorflow
+- https://medium.com/@RaghavPrabhu/a-simple-tutorial-to-classify-images-using-tensorflow-step-by-step-guide-7e0fad26c22
+- https://github.com/rohanthomas/Tensorflow-image-recognition
+- https://github.com/MuhammedBuyukkinaci/TensorFlow-Multiclass-Image-Classification-using-CNN-s
+- https://github.com/xuetsing/image-classification-tensorflow
+- https://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/
