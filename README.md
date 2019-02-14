@@ -14,3 +14,4 @@
 - https://github.com/MuhammedBuyukkinaci/TensorFlow-Multiclass-Image-Classification-using-CNN-s
 - https://github.com/xuetsing/image-classification-tensorflow
 - https://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/
+- https://medium.com/@vijayabhaskar96/multi-label-image-classification-tutorial-with-keras-imagedatagenerator-cd541f8eaf24
