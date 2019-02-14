@@ -15,3 +15,4 @@
 - https://github.com/xuetsing/image-classification-tensorflow
 - https://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/
 - https://medium.com/@vijayabhaskar96/multi-label-image-classification-tutorial-with-keras-imagedatagenerator-cd541f8eaf24
+- https://medium.com/@ipaar3/how-i-built-a-convolutional-image-classifier-using-tensorflow-from-scratch-f852c34e1c95
