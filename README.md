@@ -26,3 +26,8 @@
 - https://stackoverflow.com/questions/41823068/train-multi-class-image-classifier-in-keras
 - https://itnext.io/up-and-running-with-keras-deep-learning-digit-classification-using-cnn-804777073e43
 - https://itnext.io/up-and-running-with-keras-deep-learning-digit-classification-using-cnn-804777073e43
+
+
+**Zalando scraper**
+
+It takes images from zalando then it creates model who classify images.
