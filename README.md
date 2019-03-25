@@ -30,4 +30,7 @@
 
 **Zalando scraper**
 
-It takes images from zalando then it creates model who classify images.
+Scrap images from zalando and train a classifier on them.
+
+Here are some of them:
+![Alt text](img.png?raw=true "Title")
