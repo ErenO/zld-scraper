@@ -1,4 +1,12 @@
 # zld-scraper
+
+**Zalando scraper**
+
+Scrap images from zalando and train a classifier on them.
+
+Here are some of them:
+![Alt text](img.png?raw=true "Title")
+
 - https://github.com/marsbroshok/image-classifier-with-tensorflow
 - https://github.com/damianmoore/tensorflow-image-classifier
 - https://github.com/ryanwebber/tensorflow-image-classification
@@ -27,10 +35,3 @@
 - https://itnext.io/up-and-running-with-keras-deep-learning-digit-classification-using-cnn-804777073e43
 - https://itnext.io/up-and-running-with-keras-deep-learning-digit-classification-using-cnn-804777073e43
 
-
-**Zalando scraper**
-
-Scrap images from zalando and train a classifier on them.
-
-Here are some of them:
-![Alt text](img.png?raw=true "Title")
